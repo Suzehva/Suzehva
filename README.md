@@ -1,7 +1,9 @@
 # Hey 👋 I'm Suze!
-🌲 I'm an undergraduate studying Computer Science at Stanford University. 
+🌲 I'm an undergraduate/coterm studying Computer Science (Systems/AI) at Stanford University.
 
-✨ I get excited about computer systems and machine learning – I recently built a [FAT32 file system navigator for the Rasberry Pi](https://github.com/aditi-bhaskar/suziti-filesystem) and do interpretability research on the concept [time in language models](https://github.com/Suzehva/time-in-language-models). 
+✨ I get excited about natural language processing and machine learning – I lead
+research on how [language models (fail to) conceptualize time](https://github.com/Suzehva/time-in-language-models),
+am working on emergent capabilities and eval scaling, and recently built a
+[FAT32 file system navigator for the Raspberry Pi](https://github.com/aditi-bhaskar/suziti-filesystem).
 
 🔎 For more on these projects, see [my website](https://cs.stanford.edu/~suzeva/).
-
